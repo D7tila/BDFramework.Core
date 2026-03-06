@@ -1,2 +1,4 @@
 # 所有文件去除文本功能
 * -text
+# 不把生成文件算进语言统计
+HybridCLRData/* linguist-generated
